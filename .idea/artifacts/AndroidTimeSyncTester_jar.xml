@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AndroidTimeSyncTester:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidTimeSyncTester_jar</output-path>
+    <root id="archive" name="AndroidTimeSyncTester.jar">
+      <element id="module-output" name="AndroidTimeSyncTester" />
+    </root>
+  </artifact>
+</component>
